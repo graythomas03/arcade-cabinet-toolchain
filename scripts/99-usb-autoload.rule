@@ -1,0 +1,1 @@
+ACTION=="add", SUBSYSTEM=="block", KERNEL=="sd*", ENV{ID_USB_DRIVER}=="usb-storage",RUN+="$env{HOME}/on_usb_storage_mount"

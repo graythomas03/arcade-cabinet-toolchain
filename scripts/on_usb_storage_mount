@@ -1,0 +1,13 @@
+#!/bin/sh
+
+#
+# Gray Thomas (graythomas03@protonmail.com)
+#
+# Just a basic wrapper for the real autoloading program
+# 
+# CANONICAL PATH: $HOME/.local/bin/
+#
+
+AUTOLOAD_EXE_PATH=$HOME/.local/bin/autoloader
+
+exec $(AUTOLOAD_EXE_PATH)

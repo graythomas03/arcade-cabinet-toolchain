@@ -1,0 +1,7 @@
+### 99-usb-autoload.rule
+
+The number in front of the name enforces a specific load order within the `udev` rule call, as the operating system iterates through the rules directory alpha-numerically. A value of *99* ensures that the rule is always one of the last considered so as to not mess with any other device rules.
+
+### on_usb_storage_mount
+
+This script is a simple wrapper that invokes the actual autoloader exectuable when the autoload `udev` rule is executed.
