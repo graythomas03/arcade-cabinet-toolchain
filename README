@@ -1,0 +1,13 @@
+# VGDC Arcade Machine Documentation
+
+Further documentation about the VGDC Arcade Machine can be found here (insert link to documentation here)
+
+# Repository Structure
+
+This repository is more akin to a literal repository of information and examples rather than a complete project built individually. This section attempts to explain what can be found under each folder and the general theme of its functionality.
+
+# Licensing, Copyright and Legal Notices
+
+VGDC Arcade Machine software, firmware, and other code found under this repository is licensed under the MIT License. Further information can be found under the LICENSE file. Exceptions are indicated. NOTE that some external software mentioned in the documentation may be subject to different licensing methods.
+
+The terms of use for North Carolina State University graphics (logo and likeness) is covered by the [*Use of Trademarks by Students](https://trademarks.ncsu.edu/use-cases-decision-tree/) agreement and is only applicable for the Video Game Development Club of NCSU itself and other student organizations that meet [these cirteria](https://trademarks.ncsu.edu/use-cases-decision-tree/).
