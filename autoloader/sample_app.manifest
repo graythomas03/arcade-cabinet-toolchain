@@ -1,0 +1,17 @@
+[App]
+Name=
+DisplayName=
+Icon=
+Exec=
+MenuPath=
+SourcePath=
+
+// Can do multiple apps in each manifest file
+
+[App]
+Name=
+DisplayName=
+Icon=
+Exec=
+MenuPath=
+SourcePath=

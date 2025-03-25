@@ -6,6 +6,22 @@ Further documentation about the VGDC Arcade Machine can be found here (insert li
 
 This repository is more akin to a literal repository of information and examples rather than a complete project built individually. This section attempts to explain what can be found under each folder and the general theme of its functionality.
 
+## autoloader
+
+Source code and files relating to the autoloader program used to load games onto the Arcade Machine.
+
+## menu
+
+Source code and files relating to the Arcade Machines HTPC-style interface.
+
+## resource
+
+The home for images and files used on the GitHub Wiki pages as well as useful any useful external links.
+
+## scripts
+
+Any miscillaneous scripts used as part of the function of the Arcade Machine
+
 # Licensing, Copyright and Legal Notices
 
 VGDC Arcade Machine software, firmware, and other code found under this repository is licensed under the MIT License. Further information can be found under the LICENSE file. Exceptions are indicated. NOTE that some external software mentioned in the documentation may be subject to different licensing methods.
