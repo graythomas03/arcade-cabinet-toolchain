@@ -1,0 +1,1 @@
+ACTION=="add", ENV{DEVNAME}=="/dev/sd*", ENV{DEVTYPE}=="disk", RUN+="/root/usb-autoload", ENV{SYSTEMD_USER_WANTS}+="use-autoload.service"

@@ -1,0 +1,6 @@
+[Manifest]
+Type = "App"
+Name = "Sample1"
+DisplayName = "Sample1"
+Icon = "Debug"
+Exec = "/path/to/test"

@@ -1,0 +1,6 @@
+[Unit]
+Description=Activates autoloader program for installing new apps
+
+[Service]
+Type=oneshot
+ExecStart=/home/vgdc/.local/bin/autoloader.py

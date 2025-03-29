@@ -1,0 +1,10 @@
+#!/bin/sh
+
+#
+# Gray Thomas (graythomas03@protonmail.com)
+#
+# Just a basic wrapper for the real autoloading program
+# REQUIRES ROOT
+#
+# CANONICAL PATH: /root/
+#
